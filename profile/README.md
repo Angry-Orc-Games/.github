@@ -13,7 +13,7 @@ Independent tabletop RPG publisher. We make the **Pivot** game system, 5e-compat
 
 ## Our games
 
-- **Pivot Game System**: a classless, point-driven system. You build the character you want, then pivot as the story changes.
+- **Pivot Game System**: our own tabletop RPG system, with Pivot Fantasy first and more settings planned.
 - **5e-compatible adventure modules**: ready-to-run adventures for fifth-edition games.
 
 Find our books and PDFs at [angryorcgames.com](https://www.angryorcgames.com/).
